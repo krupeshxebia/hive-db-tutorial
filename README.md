@@ -2,7 +2,7 @@
 
 ### Learn from :point_right: [this post](https://resocoder.com/hive-db-tutorial) :point_left:.
 
-#### _Find more tutorials on [resocoder.com](https://resocoder.com)_
+#### _Find more tutorials on resocoder.com_
 
 <br />
 <br />
